@@ -1,0 +1,39 @@
+body{
+  margin  : 0px ;
+  padding : 0px ;
+  background-color: #0a0200 ;
+}
+
+div {
+  background-color : lightgoldenrodyellow ;
+  width : 55% ;
+  height : 400px  ;
+  margin : 10% auto 10% auto ;
+  border-radius: 20px ;
+  box-shadow: 0 0 20px  #bea7af  ; 
+}
+
+.priya{
+  float : right ;
+  margin : 10px ;
+  border-radius: 10px ;
+}
+
+.priya:hover{
+  box-shadow: 0 0 10px  #bea7af ;
+}
+
+.intro{
+  font-size: 60px ;
+  text-align :center ;
+  padding-top: 70px ;
+}
+
+.fun{
+  font-size : 48px ;
+  text-align :center ;
+}
+
+.intro:hover{
+  color : darkblue  ;
+}
