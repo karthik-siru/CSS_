@@ -3,6 +3,30 @@
   padding : 0px ;
 }
 
+.side{
+position: absolute;
+top:50%;
+z-index: 3;
+}
+.side a{
+
+  background:red;
+  color:white;
+  font-size:22px;
+  display: block;
+  width:150px;
+  padding:20px;
+  text-decoration:none;
+  margin: 8px 0;
+  color: white;
+  border-radius: 10px;
+  margin-left:-130px;
+  transition: .8s;
+}
+.side a:hover{
+ margin-left:0px;
+}
+
 body{
   background-color : lightyellow ;
 }
@@ -49,4 +73,8 @@ ul li:hover{
 footer{
   background-color : grey ;
   height : 150px ;
+}
+
+footer p{
+  font-size : 20px ;
 }
