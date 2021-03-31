@@ -17,19 +17,19 @@ body,html{
 .img1{
   height : 100% ;
   width : 100% ;
-  background-image: url(img1.jpg);
+  background-image: url("https://images.pexels.com/photos/2478248/pexels-photo-2478248.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
 }
 
 .img2{
   height : 400px ;
   width : 100% ;
-  background-image: url(img2.jpg);
+  background-image: url("https://images.pexels.com/photos/2341830/pexels-photo-2341830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
 
 .img3{
   height : 400px ;
   width : 100% ;
-  background-image: url(img3.jpg);
+  background-image: url("https://images.pexels.com/photos/1036657/pexels-photo-1036657.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
 }
 
 .span1, .span2 , .span3 {
