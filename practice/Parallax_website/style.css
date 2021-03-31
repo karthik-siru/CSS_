@@ -1,0 +1,59 @@
+body,html{
+  height : 100% ;
+  padding : 0px ;
+  margin : 0px ;
+}
+
+.img1,.img2,.img3 {
+  background-repeat: no-repeat ;
+  background-position: center ;
+  background-size : cover  ;
+  border : 1px solid black ;
+  position : relative;
+  opacity : 0.7 ;
+  background-attachment: fixed ;
+}
+
+.img1{
+  height : 100% ;
+  width : 100% ;
+  background-image: url(img1.jpg);
+}
+
+.img2{
+  height : 400px ;
+  width : 100% ;
+  background-image: url(img2.jpg);
+}
+
+.img3{
+  height : 400px ;
+  width : 100% ;
+  background-image: url(img3.jpg);
+}
+
+.span1, .span2 , .span3 {
+  color : white ;
+  position : absolute;
+  text-align : center ;
+  top : 50% ;
+  left : 40% ;
+  font-size : 40px ;
+  background-color : grey ;
+  padding : 5px ;
+  border-radius : 6px ;
+}
+
+.section1,.section3{
+  text-align: center ;
+  border : solid 1px #63625f  ;
+  background-color : #63625f  ;
+  color : white ;
+}
+
+.section2{
+  text-align: center ;
+  border : solid 1px lightgrey  ;
+  background-color : lightgrey  ;
+  color : black ; 
+}
